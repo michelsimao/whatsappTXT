@@ -54,3 +54,5 @@ cursor.close()
 conn.close()
 
 print(f"Foram inseridos {counter} registros.")
+
+#agora eu quero ver
