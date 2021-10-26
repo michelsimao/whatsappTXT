@@ -55,4 +55,8 @@ conn.close()
 
 print(f"Foram inseridos {counter} registros.")
 
+# <<<<<<< mybranch
+#agora eu quero ver
+# =======
 #Comentario de teste
+# >>>>>>> master
